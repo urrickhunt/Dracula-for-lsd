@@ -21,7 +21,7 @@ Windows
 
 On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
 
-![config](https://user-images.githubusercontent.com/96319944/201986593-ef26e80f-7953-47f9-946a-b6fe22bda0a4.png)
+![Screenshot 2022-11-15 at 11 54 15 AM](https://user-images.githubusercontent.com/96319944/201991611-ab6c51d9-b9c7-4579-a01f-f991a41566fc.png)
 
 
 In the config.yaml change the line to
@@ -30,7 +30,7 @@ theme: dracula
   
 If there is no config file please feel free to use this one
 
-[config.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/10014898/config.zip)
+[config.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/10015059/config.zip)
 
 Theme folder
 
