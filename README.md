@@ -21,7 +21,7 @@ Windows
 
 On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
 
-![Screenshot 2022-11-15 at 11 54 15 AM](https://user-images.githubusercontent.com/96319944/201991611-ab6c51d9-b9c7-4579-a01f-f991a41566fc.png)
+![lsd](https://user-images.githubusercontent.com/96319944/232591364-fd94c879-c9e6-4c27-bc57-d12fcbaf1af9.png)
 
 
 In the config.yaml change the line to
