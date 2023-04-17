@@ -20,7 +20,7 @@ On non-Windows systems lsd follows the XDG Base Directory Specification conventi
 
 On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
 
-![lsd](https://user-images.githubusercontent.com/96319944/232591364-fd94c879-c9e6-4c27-bc57-d12fcbaf1af9.png)
+![lsd](https://user-images.githubusercontent.com/96319944/232594377-7a3545bb-a3b6-4d8a-860e-dbe20c9095b1.png)
 
 
 In the config.yaml change the line to
