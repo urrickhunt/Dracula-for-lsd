@@ -36,7 +36,8 @@ Theme folder
 
 Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
 
-![Theme](https://user-images.githubusercontent.com/96319944/170396189-52d5e458-996e-4cfb-980f-46b98004d60f.PNG)
+![lsdroam](https://user-images.githubusercontent.com/96319944/232593618-6155521e-1798-41ad-8993-056ab735b9c4.png)
+
 
 Place dracula.yaml in the theme folder
 
