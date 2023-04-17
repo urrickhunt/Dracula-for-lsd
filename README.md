@@ -10,13 +10,13 @@ The wait is over now you can blaze in dracula style with the power of rust [lsd]
 
 In order for lsd to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
 
-Config file location
+## Config file location
 
-Non-Windows
+## Non-Windows
 
 On non-Windows systems lsd follows the XDG Base Directory Specification convention for the location of the configuration file. The configuration dir lsd uses is itself named lsd. In that directory it looks first for a file called config.yaml. For most people it should be enough to put their config file at ~/.config/lsd/config.yaml.
 
-Windows
+## Windows
 
 On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
 
@@ -31,7 +31,7 @@ If there is no config file please feel free to use this one
 
 [config.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/10015059/config.zip)
 
-Theme folder
+## Theme folder
 
 Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
 
