@@ -42,7 +42,7 @@ Place dracula.yaml in the theme folder
 
 [dracula.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/8775527/dracula.zip)
 
-![dracula](https://user-images.githubusercontent.com/96319944/232591555-02a1270f-17ab-4e26-8758-71f929a5c753.png)
+![dracula](https://user-images.githubusercontent.com/96319944/232594272-da765d38-6cc5-491d-b215-d75a099d58a6.png)
 
 Enjoy on Mac, Windows & Linux
 ## Team
