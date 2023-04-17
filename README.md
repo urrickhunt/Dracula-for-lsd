@@ -2,8 +2,7 @@
 
 > Dracula theme for [lsd](https://github.com/Peltoche/lsd).
 
-![lsd](https://user-images.githubusercontent.com/96319944/232589819-6d83c136-3913-43fa-a220-5cc36f46cdee.jpeg)
-
+![lsd](https://user-images.githubusercontent.com/96319944/232593758-5abbdc46-f021-4f07-a729-5a8aa7ef91e0.jpeg)
 
 ## Install
 
