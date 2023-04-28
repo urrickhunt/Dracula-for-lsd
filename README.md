@@ -44,7 +44,7 @@ Place dracula.yaml in the theme folder
 
 ![dracula](https://user-images.githubusercontent.com/96319944/232594272-da765d38-6cc5-491d-b215-d75a099d58a6.png)
 
-Enjoy 🧛 [lsd](https://github.com/lsd-rs/lsd) on Mac, Windows & Linux
+Enjoy 🧛🏻‍♂️ [lsd](https://github.com/lsd-rs/lsd) on Mac, Windows & Linux
 ## Team
 
 This theme is maintained by the following person(s).
