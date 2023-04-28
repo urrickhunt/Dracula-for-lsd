@@ -1,14 +1,14 @@
-# Dracula for [lsd](https://github.com/Peltoche/lsd)
+# Dracula for [lsd](https://github.com/lsd-rs/lsd)
 
-> Dracula theme for [lsd](https://github.com/Peltoche/lsd).
+> Dracula theme for [lsd](https://github.com/lsd-rs/lsd).
 
 ![lsd](https://user-images.githubusercontent.com/96319944/232593758-5abbdc46-f021-4f07-a729-5a8aa7ef91e0.jpeg)
 
 ## Install
 
-The wait is over now you can blaze in dracula style with the power of rust [lsd](https://github.com/Peltoche/lsd)
+The wait is over now you can blaze in dracula style with the power of rust [lsd](https://github.com/lsd-rs/lsd)
 
-In order for lsd to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
+In order for [lsd](https://github.com/lsd-rs/lsd) to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
 
 ## Config file location
 
@@ -44,7 +44,7 @@ Place dracula.yaml in the theme folder
 
 ![dracula](https://user-images.githubusercontent.com/96319944/232594272-da765d38-6cc5-491d-b215-d75a099d58a6.png)
 
-Enjoy on Mac, Windows & Linux
+Enjoy 🧛 [lsd](https://github.com/lsd-rs/lsd) on Mac, Windows & Linux
 ## Team
 
 This theme is maintained by the following person(s).
