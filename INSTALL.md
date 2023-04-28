@@ -1,4 +1,4 @@
-### [LSD](https://github.com/lsd-rs/lsd)
+### [exa](https://github.com/ogham/exa)
 
 #### Install using Git
 
@@ -6,32 +6,48 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 ```bash
 
-    git clone https://github.com/dracula/lsd.git
+    git clone https://github.com/dracula/exa.git
 
 ```
 
 #### Install manually
 
-- Download using the [dracula.zip](https://github.com/dracula/lsd/files/11348328/dracula.zip) link or
-- Download using the [GitHub `.zip` download](https://github.com/dracula/lsd/archive/refs/heads/main.zip) option and unzip them.
+- Download using the [exa dracula.zip](https://github.com/urrickhunt/Dracula-universal-for-exa/files/11250829/exa.dracula.zip) link or
+- Download using the [GitHub `.zip` download](https://github.com/dracula/exa/archive/refs/heads/main.zip) option and unzip them.
 
 #### Activating theme
 
-## Mac or Linux
+1. Simply add the exa_colors to the end of your .zshrc:
 
-1. Create a theme folder in lsd ~/.config/lsd/themes/.yaml
-2. Place [dracula.zip](https://github.com/dracula/lsd/files/11348328/dracula.zip) in the theme folder
-2. In the config.yaml change the line to
+# ------------------------------
+# exa - Color Scheme Definitions
+# ------------------------------
+export EXA_COLORS="\
+uu=36:\
+gu=37:\
+sn=32:\
+sb=32:\
+da=34:\
+ur=34:\
+uw=35:\
+ux=36:\
+ue=36:\
+gr=34:\
+gw=35:\
+gx=36:\
+tr=34:\
+tw=35:\
+tx=36:"
 
-        theme: dracula
-3. If there is no config file please feel free to use this one [config.zip](https://github.com/dracula/lsd/files/11348320/config.zip)        
 
-## Windows
+## Suggested Aliases
 
-1.  On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd
-2.  Create a theme folder in lsd, usually in AppData\Roaming\lsd on ARM it will be in AppData\Local\lsd
-3.  Place [dracula.zip](https://github.com/dracula/lsd/files/11348328/dracula.zip) in the theme folder
-4.  In the config.yaml change the line to
+For normal & larger displays include group (-g flag)
 
-        theme: dracula
-5. If there is no config file please feel free to use this one [config.zip](https://github.com/dracula/lsd/files/11348320/config.zip) 
+        alias xl='exa -lag --icons --color=always'
+
+For smaller or limited displays no group
+
+        alias xl='exa -la --icons --color=always'     
+
+
