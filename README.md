@@ -1,48 +1,33 @@
 # Dracula for [lsd](https://github.com/lsd-rs/lsd)
 
-> Dracula theme for [lsd](https://github.com/lsd-rs/lsd).
-
 ![lsd](https://user-images.githubusercontent.com/96319944/235167222-08d95171-0217-4574-88ca-c814b611f7b5.jpeg)
 
-## Install
+#### Activating theme
 
-The wait is over now you can blaze in dracula style with the power of rust [lsd](https://github.com/lsd-rs/lsd)
+#### Usage
 
-In order for [lsd](https://github.com/lsd-rs/lsd) to display glyphs correctly you must have a nerd font installed. https://www.nerdfonts.com/
+To activate the theme in **lsd**, you need to modify the `colors.yaml`.
 
-## Config file location
+**lsd** does not create the `colors.yaml` file for you, but it looks for one in the following locations:
 
-## Non-Windows
+**Linux**:
 
-On non-Windows systems lsd follows the XDG Base Directory Specification convention for the location of the configuration file. The configuration dir lsd uses is itself named lsd. In that directory it looks first for a file called config.yaml. For most people it should be enough to put their config file at ~/.config/lsd/config.yaml.
+- `$XDG_CONFIG_HOME/lsd/colors.yaml`
 
-## Windows
+**macOS**:
 
-On Windows systems lsd only looks for the config.yaml files in one location: %APPDATA%\lsd\
+- `$HOME/.config/lsd/colors.yaml`
 
-![lsd](https://user-images.githubusercontent.com/96319944/232594377-7a3545bb-a3b6-4d8a-860e-dbe20c9095b1.png)
+**Windows**:
 
-
-In the config.yaml change the line to
-
-theme: dracula
-  
-If there is no config file please feel free to use this one
-
-[config.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/10015059/config.zip)
-
-## Theme folder
-
-Create a theme folder in lsd  ~/.config/lsd/themes/.yaml
-
-![lsdroam](https://user-images.githubusercontent.com/96319944/232593618-6155521e-1798-41ad-8993-056ab735b9c4.png)
+- `%APPDATA%\lsd\colors.yaml`
 
 
-Place dracula.yaml in the theme folder
+#### Installation
 
-[dracula.zip](https://github.com/urrickhunt/Dracula-for-lsd/files/8775527/dracula.zip)
+**Universal**
 
-![dracula](https://user-images.githubusercontent.com/96319944/232594272-da765d38-6cc5-491d-b215-d75a099d58a6.png)
+1.  Copy the both `colors.yaml` & `config.yaml` into your lsd config folder
 
 Enjoy 🧛🏻‍♂️ [lsd](https://github.com/lsd-rs/lsd) on Mac, Windows & Linux
 ## Team
