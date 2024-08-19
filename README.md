@@ -1,4 +1,5 @@
 # Dracula for [lsd](https://github.com/lsd-rs/lsd)
+> A dark theme for [lsd](https://github.com/lsd-rs/lsd)
 
 ![lsd](https://user-images.githubusercontent.com/96319944/235167222-08d95171-0217-4574-88ca-c814b611f7b5.jpeg)
 
